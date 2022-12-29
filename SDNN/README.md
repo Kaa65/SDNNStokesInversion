@@ -31,5 +31,5 @@ Run
 python SDNN.py
 
 Notes:
-# The code will also save b_total, inclination and azimuth if save_mag_field_o = True;
-# otherwise only save bx, by, bz, Doppler width and LOS velocity.
+The code will also save b_total, inclination and azimuth if save_mag_field_o = True;
+otherwise only save bx, by, bz, Doppler width and LOS velocity.
