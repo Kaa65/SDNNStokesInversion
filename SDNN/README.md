@@ -23,8 +23,8 @@ Usage:
 
 The source code package contains the following folders/directories.
 
-1. The “inputs”folder contains NIRIS Stokes profiles samples from BBSO/GST.
-2. The “Outputs”folder contains inverted results: bx, by, bz, Doppler width and LOS velocity.
+1. The “inputs” folder contains NIRIS Stokes profiles samples from BBSO/GST.
+2. The “Outputs” folder contains inverted results: bx, by, bz, Doppler width and LOS velocity.
 
 Run 
 
@@ -32,4 +32,4 @@ python SDNN.py
 
 Notes:
 The code will also save b_total, inclination and azimuth if save_mag_field_o = True;
-otherwise only save bx, by, bz, Doppler width and LOS velocity.
+otherwise the code will only save bx, by, bz, Doppler width and LOS velocity.
