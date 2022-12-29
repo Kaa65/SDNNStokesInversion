@@ -15,8 +15,8 @@ https://iopscience.iop.org/article/10.3847/1538-4357/ac927e
 
 Requirement: 
 
-tensorflow=1.11.0
-keras=2.2.4
+tensorflow=1.11.0 <br>
+keras=2.2.4    <br>
 astropy
 
 Usage:
