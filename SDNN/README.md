@@ -24,7 +24,7 @@ Usage:
 The source code package contains the following folders/directories.
 
 1. The “inputs” folder contains NIRIS Stokes profiles samples from BBSO/GST.
-2. The “Outputs” folder contains inverted results: bx, by, bz, Doppler width and LOS velocity.
+2. The “outputs” folder contains inverted results: bx, by, bz, Doppler width and LOS velocity.
 
 Run 
 
