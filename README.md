@@ -1,6 +1,7 @@
 # Inferring Line-of-sight Velocities and Doppler Widths from Stokes Profiles of GST/NIRIS Using Stacked Deep Neural Networks
 <p>Haodi Jiang, Qin Li, Yan Xu, Wynne Hsu, Kwangsu Ahn, Wenda Cao, Jason T. L. Wang, Haimin Wang </p>
 <p>Institute for Space Weather Sciences, New Jersey Institute of Technology </p>
+<p>Institute of Data Science, National University of Singapore</p>
 <p>Obtaining high-quality magnetic and velocity fields through Stokes inversion is crucial in solar physics. 
 In this paper, we present a new deep learning method, named Stacked Deep Neural Networks (SDNN), 
 for inferring line-of-sight (LOS) velocities and Doppler widths from Stokes profiles 
