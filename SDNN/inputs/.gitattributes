@@ -1,2 +1,0 @@
-cals_170713_162012.FITS filter=lfs diff=lfs merge=lfs -text
-cals_170713_162012.fts filter=lfs diff=lfs merge=lfs -text
