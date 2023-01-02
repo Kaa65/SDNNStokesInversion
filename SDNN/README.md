@@ -15,9 +15,11 @@ https://iopscience.iop.org/article/10.3847/1538-4357/ac927e
 
 Requirement: 
 
+python=2.7 <br>
 tensorflow=1.11.0 <br>
 keras=2.2.4    <br>
-astropy
+astropy <br>
+matplotlib
 
 Usage:
 
